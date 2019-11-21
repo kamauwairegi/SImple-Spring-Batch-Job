@@ -6,5 +6,6 @@ Checkout the project
 Run it
 
 # Steps
-The first task inserts records to db
-The secind task executes after first task has finished and it queries all records inserted into the database
+ The first task inserts records to db
+
+ The second task executes after first task has finished and it queries all records inserted into the database
